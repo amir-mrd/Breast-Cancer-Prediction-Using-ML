@@ -6,7 +6,7 @@ The data is from Wisconsin Breast Cancer:
 
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-Models include:
+### Models include:
 
 *Logistic Regression*
 
